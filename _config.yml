@@ -15,11 +15,11 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
+    _posts/articles:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "article"
       - name: "tags"
         field:
           element: "multiselect"
