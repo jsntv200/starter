@@ -10,8 +10,9 @@ categories:
 published: true
 ---
 
-Here's how to get started with Poole..
+Here's how to get started with Poole.
 
+![test-image](/media/sprite%402x.png).
 
 Login with your Github User
 -----------------
